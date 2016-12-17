@@ -93,7 +93,7 @@ $(document).ready(function() {
 
   $('#page-welcome').vegas({
     slides: [
-      {src: 'img/slider/parrypeak.jpg'},
+      {src: 'img/slider/parry.jpg'},
       {src: 'img/slider/tundra.jpg'},
       {src: 'img/slider/fruita.jpg'},
       {src: 'img/slider/alta.jpg'},
